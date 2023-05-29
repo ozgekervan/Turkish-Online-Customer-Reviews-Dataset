@@ -1,4 +1,4 @@
-# Turkish Online Customer Review Dataset
+# Turkish Online Customer Reviews Dataset
 
 
 This dataset consists of online customer product reviews.
