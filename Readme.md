@@ -34,4 +34,4 @@ True;bayıldım. çok güzel beklediğimden daha iyi geldi. almak isteyenlere ta
 # Download
 The generated data set for similar experimental studies was made available to researchers. 
 
-> git clone <>
+> git clone https://github.com/ozgekervan/Turkish-Online-Customer-Reviews-Dataset.git .
